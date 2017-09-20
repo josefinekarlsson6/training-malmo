@@ -1,4 +1,6 @@
 //functions.c
+#include <functions.h>
+
 int function1(int a, int b) {
-	//functtion code
+	return a + b;
 }
