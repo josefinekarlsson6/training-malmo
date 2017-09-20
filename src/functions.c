@@ -1,6 +1,10 @@
 //functions.c
 #include <functions.h>
 
-int function1(int a, int b) {
+int add(int a, int b) {
 	return a + b;
+}
+
+int subtract(int a, int b) {
+	return a - b;
 }
